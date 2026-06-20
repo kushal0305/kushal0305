@@ -17,13 +17,6 @@
 
 <div align="center">
 
-## 🕷️ Welcome To My AI Laboratory
-
-*"With great power comes great responsibility. With AI comes endless possibilities."*
-
-</div>
-
-
 
 
 ---
