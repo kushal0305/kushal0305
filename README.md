@@ -40,15 +40,96 @@ Mission:
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## 🤖 Machine Learning-Based Predictive Maintenance of Electrical Components
+<table>
+<tr>
+<td width="50%">
 
-An intelligent maintenance system developed to monitor electrical equipment and predict failures before they occur.
+## 🤖 Machine Learning-Based Predictive Maintenance
 
-The project combines sensor data acquisition, embedded systems, and machine learning algorithms to improve reliability and reduce downtime.
+An intelligent maintenance platform designed to monitor electrical equipment and predict failures before they occur.
+
+### Key Highlights
+
+✔ Random Forest Algorithm
+
+✔ Real-Time Monitoring
+
+✔ Fault Prediction
+
+✔ Maintenance Alerts
+
+✔ Industrial Applications
+
+### Technologies
+
+Python • Machine Learning • Arduino • PYNQ Z2 FPGA
+
+</td>
+
+<td width="50%">
+
+## ⚡ Predictive Maintenance for AC Exhaust Fans
+
+A smart monitoring system that analyzes sensor data to detect abnormal operating conditions and estimate equipment health.
+
+### Key Highlights
+
+✔ Temperature Analysis
+
+✔ Current Monitoring
+
+✔ Vibration Detection
+
+✔ Equipment Health Assessment
+
+✔ Predictive Analytics
+
+### Technologies
+
+Python • Sensors • Embedded Systems • Data Analysis
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🏗️ Project Technology Stack
+
+```txt
+Temperature Sensor
+Current Sensor
+Vibration Sensor
+        │
+        ▼
+Data Acquisition
+        │
+        ▼
+Feature Extraction
+        │
+        ▼
+Machine Learning Model
+(Random Forest)
+        │
+        ▼
+Failure Prediction
+        │
+        ▼
+Maintenance Alert System
+```
+
+---
+
+## 🎯 Current Development Areas
+
+- Machine Learning Applications
+- Predictive Maintenance Systems
+- Artificial Intelligence
+- Embedded Systems
+- Industrial Automation
+- FPGA-Based Computing
 
 # ✨ Core Features
 
