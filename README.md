@@ -52,41 +52,67 @@ The project combines sensor data acquisition, embedded systems, and machine lear
 
 # ✨ Core Features
 
-### 📊 Real-Time Monitoring
+<table>
+<tr>
+<td width="50%">
 
-✔ Temperature Analysis
+## 📊 Monitoring System
 
-✔ Current Monitoring
+```txt
+✓ Temperature Analysis
+✓ Current Monitoring
+✓ Vibration Detection
+✓ Health Tracking
+✓ Performance Metrics
+```
 
-✔ Vibration Detection
+</td>
 
-✔ Equipment Health Tracking
+<td width="50%">
 
-✔ Performance Evaluation
+## 🧠 AI Engine
 
-### 🧠 Machine Learning Engine
+```txt
+✓ Data Collection
+✓ Feature Extraction
+✓ Random Forest
+✓ Fault Detection
+✓ Predictive Alerts
+```
 
-✔ Data Collection
+</td>
+</tr>
 
-✔ Data Processing
+<tr>
+<td width="50%">
 
-✔ Feature Extraction
+## ⚙️ Embedded Systems
 
-✔ Random Forest Algorithm
+```txt
+✓ Arduino Interface
+✓ Sensor Integration
+✓ LCD Display
+✓ Hardware Control
+✓ Real-Time Monitoring
+```
 
-✔ Fault Prediction
+</td>
 
-✔ Maintenance Alerts
+<td width="50%">
 
-### ⚙️ Embedded Integration
+## 🚀 Future Vision
 
-✔ Arduino Interface
+```txt
+✓ Industrial AI
+✓ IoT Integration
+✓ Deep Learning
+✓ Smart Factories
+✓ Automation Systems
+```
 
-✔ Sensor Connectivity
-
-✔ LCD Monitoring
-
-✔ Hardware & Software Communication
+</td>
+</tr>
+</table>
 
 ---
 
